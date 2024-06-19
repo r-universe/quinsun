@@ -5,6 +5,3 @@
 [submodule "smoke"]
 	path = smoke
 	url = https://github.com/cran/smoke
-[submodule "xtal"]
-	path = xtal
-	url = https://github.com/cran/xtal
